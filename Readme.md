@@ -70,7 +70,7 @@ The project followed a business-first approach where each analytical step was de
 The following workflow summarizes the complete technical implementation of the project, from loading the raw data to generating business insights and visualizations.
 
 <p align="center">
-<img src="04-Assets/Project_Workflow_(Technical_View) .png" width="950">
+<img src="04-Assets/Project_Workflow_Technical_View.png" width="950">
 </p>
 
 ---
