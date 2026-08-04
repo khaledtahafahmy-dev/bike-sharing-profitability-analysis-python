@@ -3,7 +3,7 @@
 This project demonstrates a complete end-to-end data analytics workflow using Python, from raw data preparation to business insights and visualization.
 
 <p align="center">
-<img src="04-assets/dashboard_preview.png" width="900">
+<img src="04-Assets/dashboard_preview.png" width="900">
 </p>
 
 ## Business Domain
@@ -60,7 +60,7 @@ Without these insights, it becomes difficult to optimize pricing strategies, mar
 The project followed a business-first approach where each analytical step was designed to answer specific business questions and support the overall business goal.
 
 <p align="center">
-<img src="assets/project_planning_flow.png" width="900">
+<img src="04-Assets/project_planning_flow.png" width="900">
 </p>
 
 ---
@@ -70,7 +70,7 @@ The project followed a business-first approach where each analytical step was de
 The following workflow summarizes the complete technical implementation of the project, from loading the raw data to generating business insights and visualizations.
 
 <p align="center">
-<img src="04-assets/Project_Workflow_(Technical_View).png" width="950">
+<img src="04-Assets/Project_Workflow_(Technical_View).png" width="950">
 </p>
 
 ---
@@ -231,7 +231,7 @@ The following visualizations answer the project's business questions and summari
 Tracks total monthly profit across the two-year period to evaluate overall business growth.
 
 <p align="center">
-<img src="04-assets/profit_trend.png" width="850">
+<img src="04-Assets/profit_trend.png" width="850">
 </p>
 
 ---
@@ -241,7 +241,7 @@ Tracks total monthly profit across the two-year period to evaluate overall busin
 Compares profitability under different weather conditions to understand how weather influences customer demand.
 
 <p align="center">
-<img src="04-assets/weather_profit.png" width="850">
+<img src="04-Assets/weather_profit.png" width="850">
 </p>
 
 ---
@@ -251,7 +251,7 @@ Compares profitability under different weather conditions to understand how weat
 Identifies the hours generating the highest profit to support operational planning.
 
 <p align="center">
-<img src="04-assets/peak_hours.png" width="850">
+<img src="04-Assets/peak_hours.png" width="850">
 </p>
 
 ---
@@ -261,7 +261,7 @@ Identifies the hours generating the highest profit to support operational planni
 Compares the contribution of Casual and Registered customers to total profitability.
 
 <p align="center">
-<img src="04-assets/rider_type.png" width="850">
+<img src="04-Assets/rider_type.png" width="850">
 </p>
 
 ---
