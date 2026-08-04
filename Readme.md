@@ -60,7 +60,7 @@ Without these insights, it becomes difficult to optimize pricing strategies, mar
 The project followed a business-first approach where each analytical step was designed to answer specific business questions and support the overall business goal.
 
 <p align="center">
-<img src="04-Assets/project_planning_flow.png" width="900">
+<img src="04-Assets/Project_plannig_flow.png" width="900">
 </p>
 
 ---
@@ -70,7 +70,7 @@ The project followed a business-first approach where each analytical step was de
 The following workflow summarizes the complete technical implementation of the project, from loading the raw data to generating business insights and visualizations.
 
 <p align="center">
-<img src="04-Assets/Project_Workflow_(Technical_View).png" width="950">
+<img src="04-Assets/Project_Workflow_(Technical_View) .png" width="950">
 </p>
 
 ---
