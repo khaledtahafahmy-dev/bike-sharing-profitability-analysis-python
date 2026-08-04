@@ -2,9 +2,7 @@
 
 This project demonstrates a complete end-to-end data analytics workflow using Python, from raw data preparation to business insights and visualization.
 
-<p align="center">
-<img src="04-Assets/dashboard_preview.png" width="900">
-</p>
+
 
 ## Business Domain
 
